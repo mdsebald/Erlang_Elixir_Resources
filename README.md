@@ -78,6 +78,11 @@ http://elixirtalk.com/
 Elixir Outlaws
 https://elixiroutlaws.com/
 
+### Embedded Erlang/Elixir
+
+Nerves
+https://www.nerves-project.org/
+
 ### Twitter
 
 Elixir LibHunt, Your go-to Elixir Toolbox
