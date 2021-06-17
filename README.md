@@ -2,10 +2,10 @@
 Links to Erlang and Elixir resources
 
 
-## Erlang Language
+### Erlang Language
 https://www.erlang.org/
 
-## Elixir Language
+### Elixir Language
 https://elixir-lang.org/
 
 Elixir Forum
@@ -21,7 +21,7 @@ Erlang Ecosystem Foundation
 Supporting the next generation of advanced, reliable, realtime applications
 https://erlef.org/
 
-Training
+### Training
 
 Elixir School is the premier destination for people looking to learn and master the Elixir programming language
 https://elixirschool.com/en/
@@ -36,7 +36,7 @@ https://alchemist.camp/
 Career fuel for programmers
 https://grox.io/
 
-Newsletters
+### Newsletters
 
 Elixir Weekly
 https://elixirweekly.net/
@@ -53,7 +53,7 @@ https://elixirdigest.net/
 This Week in Elixir and Erlang (blog, not a newsletter)
 https://preslav.me/
 
-Meetups
+### Meetups
 
 https://www.columbuselixir.com/
 
@@ -61,7 +61,7 @@ http://kcelixir.com/
 
 https://nerves.group/
 
-Podcasts
+### Podcasts
 
 Thinking Elixir
 https://thinkingelixir.com/the-podcast/
@@ -78,7 +78,7 @@ http://elixirtalk.com/
 Elixir Outlaws
 https://elixiroutlaws.com/
 
-Twitter
+### Twitter
 
 Elixir LibHunt, Your go-to Elixir Toolbox
 @ElixirLibHunt
