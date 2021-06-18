@@ -24,7 +24,7 @@ Guided programming exercises in a selected programming language track: https://e
 
 Alchemist Camp “Learn Elixir and Phoenix by building things”: https://alchemist.camp/
 
-Career rocket fuel for programmers: https://grox.io/
+Career fuel for programmers: https://grox.io/
 
 ### Newsletters
 
