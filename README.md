@@ -53,6 +53,8 @@ https://elixirdigest.net/
 This Week in Elixir and Erlang (blog, not a newsletter)
 https://preslav.me/
 
+The Erlang email list: http://erlang.org/mailman/listinfo/erlang-questions
+
 ### Meetups
 
 https://www.columbuselixir.com/
