@@ -7,11 +7,18 @@ Erlang Language: https://www.erlang.org/
 
 Elixir Language: https://elixir-lang.org/
 
+Erlang & Elixir Package Manager: https://hex.pm/
+
+### Forums
+
 Elixir Forum: https://elixirforum.com/
 
-A collection of companies using Elixir in production: https://elixir-companies.com/en
+Elixir Slack: https://elixir-lang.slack.com
 
-Erlang & Elixir Package Manager: https://hex.pm/
+
+### Organizations
+
+A collection of companies using Elixir in production: https://elixir-companies.com/en
 
 Erlang Ecosystem Foundation: https://erlef.org/
 Supporting the next generation of advanced, reliable, realtime applications
@@ -27,6 +34,8 @@ Alchemist Camp “Learn Elixir and Phoenix by building things”: https://alchem
 Career fuel for programmers: https://grox.io/
 
 ### Newsletters
+
+The Underjord Newsletter: https://underjord.io/newsletter.html
 
 Elixir Weekly: https://elixirweekly.net/
 
@@ -64,8 +73,11 @@ BEAM Radio: https://www.beamrad.io/
 
 ### Embedded Erlang/Elixir
 
-Nerves
-https://www.nerves-project.org/
+The Nerves project: https://www.nerves-project.org/
+
+The Nerves Newsletter: https://underjord.io/nerves-newsletter.html
+
+Grisp: BUILD EMBEDDED SYSTEMS WITH ERLANG & ELIXIR: https://www.grisp.org/
 
 ### Twitter
 
