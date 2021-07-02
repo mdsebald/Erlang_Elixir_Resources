@@ -49,6 +49,10 @@ This Week in Elixir and Erlang (blog, not a newsletter): https://preslav.me/
 
 The Erlang email list: http://erlang.org/mailman/listinfo/erlang-questions
 
+### Blogs
+
+The Erlangelist (not only) Erlang related musings, Saša Jurić, https://www.theerlangelist.com/
+
 ### Meetups
 
 https://www.columbuselixir.com/
